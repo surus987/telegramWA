@@ -1,2 +1,2 @@
-# telergramWA
+# telegramWA
 install
