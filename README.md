@@ -1,0 +1,2 @@
+# telergramWA
+install
